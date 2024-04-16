@@ -1,6 +1,7 @@
 
 # 3wag
 
+## Red Social - Networking
 Agencia de influencers en la web 3.0
 
 para la instalacion y funcionalidad de la aplicacion hay que descargar
