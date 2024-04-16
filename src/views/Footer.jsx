@@ -125,15 +125,15 @@ export default function Footer() {
                 <li className="mt-[15px]">
                   <a
                     className="text-deutziawhite hover:text-deutziawhite/80 font-inter text-[15px] font-normal hover:font-semibold"
-                    href="/our-tutors"
+                    href="/influencer"
                   >
-                    Inluencers
+                    Influencers
                   </a>
                 </li>
                 <li className="mt-[15px]">
                   <a
                     className="text-deutziawhite hover:text-deutziawhite/80 font-inter text-[15px] font-normal hover:font-semibold"
-                    href="/become-a-tutor"
+                    href="/empresas"
                   >
                     Empresas
                   </a>
@@ -141,7 +141,7 @@ export default function Footer() {
                 <li className="mt-[15px]">
                   <a
                     className="text-deutziawhite hover:text-deutziawhite/80 font-inter text-[15px] font-normal hover:font-semibold"
-                    href="/plans-and-pricing"
+                    href="/contacto"
                   >
                     Contacto
                   </a>
