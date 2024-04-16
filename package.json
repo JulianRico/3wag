@@ -15,6 +15,7 @@
     "@stacks/network": "^6.13.0",
     "@stacks/transactions": "^6.13.0",
     "axios": "^1.6.8",
+    "flatpickr": "^4.6.13",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.4",
     "react": "^18.2.0",
